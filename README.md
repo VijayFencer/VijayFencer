@@ -8,5 +8,5 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
  - 🤺 I'm a National level Fencer
  - 📫 Reach me out at :
 <br/>
--😄 Pronouns: Techie/Fencer
--⚡ Fun fact: I know German
+ -😄 Pronouns: Techie/Fencer
+ -⚡ Fun fact: I know German
