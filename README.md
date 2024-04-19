@@ -1,6 +1,6 @@
 # Hey, welcome! 👋 It's me Vijay Bharath
 
-About Me
+## About Me
 ---
 I'm a zestful Computer Science and Engineering student from Kongu Engineering College
 -🌱 I'm currently learning Ethical Hacking
