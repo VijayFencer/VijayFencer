@@ -10,7 +10,7 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
 - 😄 Pronouns: Techie/Fencer
 - ⚡ Fun fact: I know German.
 
-##  <img width="50" height="50" src="https://img.icons8.com/ios/50/language.png" alt="language"/>Languages
+## <img width="50" height="50" src="https://img.icons8.com/stickers/50/language.png" alt="language"/>Languages
 ### English|Kannada|Tamil|Hindi|German
 
 ## I code in
@@ -18,7 +18,7 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ## IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/><img width="50" height="50" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/><img width="50" height="50" src="https://img.icons8.com/dusk/50/github.png" alt="github"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/><img width="50" height="50" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
 
 ## Tech Profiles
 [<img width="50" height="50" src="https://img.icons8.com/cute-clipart/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/vijay-bharath-vb/)[<img width="50" height="50" src="https://img.icons8.com/windows/50/hackerrank.png" alt="hackerrank"/>](https://www.hackerrank.com/profile/Vijay_22CSR236)[<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://leetcode.com/VijayFencer/)
