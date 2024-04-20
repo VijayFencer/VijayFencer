@@ -8,4 +8,4 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
  - 📫 Reach me out at :
  <br/>
  - 😄 Pronouns: Techie/Fencer
-- ⚡ Fun fact: I know German.
+ - ⚡ Fun fact: I know German.
