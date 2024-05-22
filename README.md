@@ -1,4 +1,4 @@
-# Hey, welcome! 👋 It's me Vijay Bharath
+# Hey 👋 It's me Vijay Bharath
 
 I'm a zestful Computer Science and Engineering student from Kongu Engineering College
 ## About Me
