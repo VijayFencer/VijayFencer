@@ -26,6 +26,10 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
 ## Tech Profiles
 [<img width="50" height="50" src="https://img.icons8.com/cute-clipart/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/vijay-bharath-vb/)[<img width="50" height="50" src="https://img.icons8.com/windows/50/hackerrank.png" alt="hackerrank"/>](https://www.hackerrank.com/profile/Vijay_22CSR236)[<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>](https://leetcode.com/VijayFencer/)
 
+## Roadmap Stats
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/665072b8d6b907c7f799554c?variant=dark&roadmaps=cyber-security%2Cfull-stack" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/665072b8d6b907c7f799554c?variant=dark&roadmaps=cyber-security%2Cfull-stack)](https://roadmap.sh)
+
 ## Github Stats
 ![VijayFencer's Stats](https://github-readme-stats.vercel.app/api?username=VijayFencer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![VijayFencer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VijayFencer&theme=vue-dark&hide_border=true)<br/>
