@@ -1,4 +1,4 @@
-# Hey 👋 It's me Vijay Bharath
+# Hey 👋 It's me Vijay Bharath                                                                                       
 
 I'm a zestful Computer Science and Engineering student from Kongu Engineering College
 ## About Me
@@ -10,6 +10,8 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
 - 😃 Appellations:Techie/Fencer.
 - 🌏 From Algorithms to En Garde: A Techie’s Fencing Adventure
 - ⚡ Fun fact: I know German.
+
+   ![](https://komarev.com/ghpvc/?username=VijayFencer&color=orange)
 
 ## <img width="50" height="50" src="https://img.icons8.com/stickers/50/language.png" alt="language"/>Languages
 ### English|Kannada|Tamil|Hindi|German
