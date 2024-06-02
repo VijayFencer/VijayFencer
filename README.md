@@ -4,9 +4,9 @@ I'm a zestful Computer Science and Engineering student from Kongu Engineering Co
 ## About Me
 - 🌱 Coding for Profession
 - 🤺 Fencing for Passion
-- 🧑‍🤝‍🧑 I'm looking to collaborate on Freelance projects
 - 📫 Reach me out at :
 <br />[<img width="50" height="50" src="https://img.icons8.com/bubbles/50/gmail-new.png" alt="gmail-new"/>](mailto:vijaybharathslmfencing@gmail.com) [<img width="50" height="50" src="https://img.icons8.com/fluency/50/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/vijay_fencer/)[<img width="50" height="50" src="https://img.icons8.com/color/50/facebook-new.png" alt="facebook-new"/>](https://www.facebook.com/vijay.bharath.52056/)[<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/VijayBh48089752/)
+- 🧑‍🤝‍🧑 I'm looking to collaborate on Freelance projects
 - 😃 Appellations:Techie/Fencer.
 - 🌏 From Algorithms to En Garde: A Techie’s Fencing Adventure
 - ⚡ Fun fact: I know German.
